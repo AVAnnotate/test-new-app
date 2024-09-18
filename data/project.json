@@ -1,1 +1,56 @@
-{"publish":{"publish_pages_app":true,"publish_sha":"","publish_iso_date":""},"users":[],"project":{"github_org":"AVAnnotate","title":"Test New App","description":"Testing","language":"en","slug":"test-new-app","creator":"lwjameson","authors":"","media_player":"avannotate","auto_populate_home_page":true,"additional_users":[],"tags":{"tagGroups":[{"category":"_uncategorized_","color":"#A3A3A3"},{"category":" Topic","color":"#ADFEFF"},{"category":" Speaker","color":"#99E6FF"}],"tags":[{"category":"_uncategorized_","tag":"Film Direction"},{"category":" Topic","tag":" Zora Neale Hurston"},{"category":"_uncategorized_","tag":"Transcription"},{"category":" Speaker","tag":" Zora Neale Hurston"}]},"created_at":"2024-09-18T18:09:02.908Z","updated_at":"2024-09-18T18:09:46.192Z"}}
+{
+  "publish": {
+    "publish_pages_app": true,
+    "publish_sha": "",
+    "publish_iso_date": ""
+  },
+  "users": [],
+  "project": {
+    "github_org": "AVAnnotate",
+    "title": "Test New App",
+    "description": "Testing",
+    "language": "en",
+    "slug": "test-new-app",
+    "creator": "lwjameson",
+    "authors": "",
+    "media_player": "avannotate",
+    "auto_populate_home_page": true,
+    "additional_users": [],
+    "tags": {
+      "tagGroups": [
+        {
+          "category": "_uncategorized_",
+          "color": "#A3A3A3"
+        },
+        {
+          "category": " Topic",
+          "color": "#ADFEFF"
+        },
+        {
+          "category": " Speaker",
+          "color": "#99E6FF"
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Film Direction"
+        },
+        {
+          "category": " Topic",
+          "tag": " Zora Neale Hurston"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription"
+        },
+        {
+          "category": " Speaker",
+          "tag": " Zora Neale Hurston"
+        }
+      ]
+    },
+    "created_at": "2024-09-18T18:09:02.908Z",
+    "updated_at": "2024-09-18T18:09:47.066Z"
+  }
+}
