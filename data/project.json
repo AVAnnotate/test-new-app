@@ -15,7 +15,13 @@
     "authors": "",
     "media_player": "avannotate",
     "auto_populate_home_page": true,
-    "additional_users": [],
+    "additional_users": [
+      {
+        "login_name": "SteveMarvin",
+        "avatar_url": "https://avatars.githubusercontent.com/u/18423533?v=4",
+        "admin": false
+      }
+    ],
     "tags": {
       "tagGroups": [
         {
@@ -51,6 +57,6 @@
       ]
     },
     "created_at": "2024-09-18T18:09:02.908Z",
-    "updated_at": "2024-09-18T18:09:47.066Z"
+    "updated_at": "2024-09-20T15:44:13.741Z"
   }
 }
